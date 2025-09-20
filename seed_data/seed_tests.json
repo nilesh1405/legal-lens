@@ -1,0 +1,12 @@
+[
+  {
+    "query": "Is there a prepayment penalty?",
+    "expected": "references chunk with 'prepayment' or 'penalty' and risk High"
+  },
+  {
+    "query": "Can lender accelerate balance on default?",
+    "expected": "find acceleration clause"
+  }
+]
+
+

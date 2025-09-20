@@ -1,0 +1,25 @@
+# Env & secrets
+.env
+.env.*
+*.key
+*.json.key
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Node
+node_modules/
+.next/
+.vercel/
+
+# OS
+*.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+
+
