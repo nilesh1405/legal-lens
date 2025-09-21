@@ -16,3 +16,4 @@ python-jose
 psycopg[binary]
 supabase
 reportlab
+python-dotenv
